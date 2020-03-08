@@ -38,3 +38,4 @@ const Routes = (userLogged = false) =>
 export default Routes;
 
 // tela de Rotas
+// Entendendo o HASH

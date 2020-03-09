@@ -39,3 +39,4 @@ export default Routes;
 
 // tela de Rotas
 // Entendendo o HASH
+// esta linha foi modificada no ramo master

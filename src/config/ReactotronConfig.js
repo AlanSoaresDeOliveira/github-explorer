@@ -10,3 +10,5 @@ if (__DEV__) {
   tron.clear();
 }
 // mesmo código
+
+//mesmo código
